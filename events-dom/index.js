@@ -1,3 +1,5 @@
+import './style.css';
+
 const addTodo = (text, capturing) => {
   alert(`Capturing: ${capturing} - ${text}`);
 };

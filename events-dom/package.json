@@ -4,7 +4,7 @@
   "description": "Event capturing and bubbling JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
   },
   "keywords": [
     "events",
@@ -12,5 +12,9 @@
     "javascript"
   ],
   "author": "Telerik Academy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/parcel-bundler": "^1.12.0",
+    "parcel-bundler": "^1.12.3"
+  }
 }
