@@ -1,0 +1,16 @@
+{
+  "name": "events-dom",
+  "version": "1.0.0",
+  "description": "Event capturing and bubbling JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "events",
+    "dom",
+    "javascript"
+  ],
+  "author": "Telerik Academy",
+  "license": "MIT"
+}

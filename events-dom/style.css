@@ -1,0 +1,14 @@
+#outer, #inner {
+  border: 1px solid black;
+}
+
+#outer {
+  width: 200px;
+  height: 200px;
+}
+
+#inner {
+  width: 100px;
+  height: 100px;
+}
+
